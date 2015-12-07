@@ -23,9 +23,6 @@
 # After the setup script runs, you will still have a fair amount of work to do.
 # For example:
 #
-# - Copy in a valid SSL certificate.
-# - Append the dhparams.pem file to the certificate file.
-#   E.g. cat /etc/ssl/private/dhparams.pem > /etc/ssl/certs/www.example.com.pem
 # - Finalize wp-config.php.
 # - Create a sane .htaccess file.
 # - Clean up after the import, especially in the WXR case.
